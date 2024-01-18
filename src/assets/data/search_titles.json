@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Chỗ ở",
+    "searchInfos": [
+      {
+        "title": "Địa điểm"
+      },
+      {
+        "title": "Nhận phòng"
+      },
+      {
+        "title": "Trả phòng"
+      }
+    ]
+  },
+  {
+    "title": "Trải nghiệm",
+    "searchInfos": [
+      {
+        "title": "Nơi ở",
+        "desc": "你想去哪个城市"
+      },
+      {
+        "title": "Ngày",
+        "desc": "你想合适出发"
+      }
+    ]
+  }
+]
