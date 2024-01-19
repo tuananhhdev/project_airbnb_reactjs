@@ -15,4 +15,7 @@ export const listAPI = {
 
   // get room location
   getRoomLocation: () => API.get("/api/phong-thue/lay-phong-theo-vi-tri"),
+
+  // detail room
+  detail_room: () => API.get(`/api/phong-thue/lay-phong-theo-vi-tri?maViTri=1`),
 };
